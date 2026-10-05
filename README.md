@@ -23,3 +23,7 @@ chmod +x install.sh
 ./install.sh
 source .venv/bin/activate
 shadowrecon
+
+## Screenshot
+
+![ShadowRecon terminal interface](docs/shadow.png)
