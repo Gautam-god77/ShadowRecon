@@ -2,6 +2,10 @@
 
 Authorized reconnaissance framework for advance testing.
 
+### Screenshot
+
+![ShadowRecon terminal interface](docs/shadow.png)
+
 ## Features
 
 - DNS reconnaissance
@@ -24,6 +28,3 @@ chmod +x install.sh
 source .venv/bin/activate
 shadowrecon
 
-## Screenshot
-
-![ShadowRecon terminal interface](docs/shadow.png)
